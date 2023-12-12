@@ -15,7 +15,7 @@ Right now, open source communities, governments, and financial institutions are 
 * You can request datasets [here](https://nukl.ai)
 * Check out the security Audits [here](https://omniscia.io/reports/nuklai-data-tunnel-653a552f440d4300145f8d33/)
 * Become a curator or contribute to datasets [here](https://nukl.ai)
-* Browse the [NAI ERC20 token contract]() (coming soon)
+* Browse the [NAI ERC20 token contract](https://github.com/Nuklai/Nuklai-ERC20-Token)
 * Contribute to [Nuklai Smart Contracts](https://github.com/Nuklai/nuklai-contracts)
 * Become a node operator [Nuklai Network]() (coming soon)
 * Participate in the [Nuklai DAO]() (coming soon)
